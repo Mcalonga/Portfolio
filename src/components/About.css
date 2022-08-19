@@ -1,0 +1,26 @@
+.about-container {
+    
+    background-color: rgb(46, 48, 50);
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    color: aliceblue;
+    flex-wrap: wrap;
+}
+
+.about-container div {
+    padding: 3rem;
+}
+
+.about-container h1 {
+    font-size: 3rem;
+}
+
+.about-container p{
+    font-size: 1.3rem;
+}
+
+.about-me {
+    word-wrap: break-word;
+    padding-bottom: 2rem;
+}

@@ -1,0 +1,58 @@
+.proj-container {
+    
+    background-color: rgb(16, 16, 26);
+    display: grid;
+    place-items: center center;
+}
+.proj-container h1{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    padding: 2rem;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+    grid-gap: 2rem;
+}
+
+
+
+.card1 {
+    background-color: rgba(189, 201, 211, 0.371);
+    border-style: outset;
+    border-radius: 20px;
+    border-width: 3px;
+    border-color: whitesmoke;
+}
+.card1:hover{
+    cursor: pointer;
+}
+
+
+.image-container {
+    position: relative;
+    background-color: rgb(179, 174, 174);
+    border-radius: 20px;
+}
+
+img {
+    width: 100%;
+    display: block;
+    border-radius: 20px;
+}
+
+.information {
+    padding: 20px 10px;
+}
+
+.information h3 {
+    font-weight: 600;
+}
+
+.information p {
+    font-size: 15px;
+}
