@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.021db938.css",
+    "main.js": "/Portfolio/static/js/main.f70a5025.js",
+    "static/js/787.3b86ad0b.chunk.js": "/Portfolio/static/js/787.3b86ad0b.chunk.js",
+    "static/media/—Pngtree—vector abstract futuristic digital landscape_1240800.jpg": "/Portfolio/static/media/—Pngtree—vector abstract futuristic digital landscape_1240800.0782297ed99198f71c73.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.021db938.css.map": "/Portfolio/static/css/main.021db938.css.map",
+    "main.f70a5025.js.map": "/Portfolio/static/js/main.f70a5025.js.map",
+    "787.3b86ad0b.chunk.js.map": "/Portfolio/static/js/787.3b86ad0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021db938.css",
+    "static/js/main.f70a5025.js"
+  ]
+}
